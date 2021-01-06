@@ -1,0 +1,5 @@
+Background do Body e da NavBar: #040F16
+Cor de letras da NavBar: #005E7C
+Cor de letra 1: white
+Cor de letra 2: #0094C6
+
